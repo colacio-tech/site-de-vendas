@@ -1,4 +1,4 @@
-# 🔊 Abertura
+um# 🔊 Abertura
 
 Seja muito bem-vindo ao Wi-Fi Turbo, o podcast onde sua conexão lenta fica no passado e a alta performance chega de vez! Eu sou [Seu Nome], especialista em tecnologia prática, e hoje vou te mostrar como transformar seu Wi-Fi em uma verdadeira máquina — e ainda te apresentar uma solução que pode mudar sua rotina online!
 
@@ -15,3 +15,10 @@ Existem 3 grandes vilões do Wi-Fi:
     3. Equipamentos desatualizados
 
 O que pouca gente sabe é que, com ajustes simples e um bom equipamento de reforço, você pode melhorar sua conexão em até 300%.
+
+
+
+
+
+
+
